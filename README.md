@@ -1,2 +1,4 @@
-# juanjos0911.github.io
-mi pagina
+<html>
+<head>  Juan Avendaño </head> 
+<body> sena adso </body>
+</html>
